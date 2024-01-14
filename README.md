@@ -4,7 +4,7 @@
 I am a Junior Fullstack Developer, with preferences for Frontend. I live in Warsaw, Poland.
 
 - 🌱 I’m currently learning Typescript and React
-- 📫 How to reach me: www.linkedin.com/in/sebastian-gawrys
+- 🔭 I’m currently looking for my first experience as a Junior Developer 
 
 ### Languages and tools
 
@@ -23,8 +23,9 @@ I am a Junior Fullstack Developer, with preferences for Frontend. I live in Wars
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 
+
+- 📫 How to reach me:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
